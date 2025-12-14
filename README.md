@@ -11,7 +11,9 @@
 
 
 Set PORT_COUNT to 478 or 956 if default count failed to panic
+
 on iPhone 12 & iPhone 15, default port counts works
+
 on iPhone 16+, set to 478 or around
 
 
