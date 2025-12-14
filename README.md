@@ -1,7 +1,7 @@
 totally not useful for jailbreak
 
 
-just for those who wanted to see how the panic worked
+just for those who wanted to see how the panic work
 
 
 don't blame on my code i can't make it better (major skill issues 🥹)
