@@ -22,8 +22,8 @@ on iPhone 16+, set to 478 or around
 
 # Status
 
-- Works? ✅
-- Unpatched? ✅
+- Works? ✅ // 2025/12/14
+- Unpatched? ✅ // iOS 26.2 (23C55)
 
 
 
